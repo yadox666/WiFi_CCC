@@ -1,6 +1,7 @@
 Wi-Fi Covert Channel Chat
 ----------------------------------------------
 (Ultra secret chat using Wi-Fi covert channel)
+
 Author: Yago F. Hansen - 2017
 
 Covert Channel [Wikipedia]: a covert channel is a type of computer security attack that creates 
