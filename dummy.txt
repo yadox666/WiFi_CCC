@@ -1,0 +1,11 @@
+.SOF
+1 *************************
+2 This is a test dummy file
+3 *************************
+4 This is a test dummy file
+5 *************************
+6 This is a test dummy file
+7 *************************
+8 This is a test dummy file
+9 *************************
+EOF.
