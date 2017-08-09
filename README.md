@@ -1,16 +1,7 @@
-██╗    ██╗██╗      ███████╗██╗         ██████╗ ██████╗ ██████╗
-██║    ██║██║      ██╔════╝██║        ██╔════╝██╔════╝██╔════╝
-██║ █╗ ██║██║█████╗█████╗  ██║        ██║     ██║     ██║     
-██║███╗██║██║╚════╝██╔══╝  ██║        ██║     ██║     ██║     
-╚███╔███╔╝██║      ██║     ██║        ╚██████╗╚██████╗╚██████╗
- ╚══╝╚══╝ ╚═╝      ╚═╝     ╚═╝         ╚═════╝ ╚═════╝ ╚═════╝
-                                                                      
-Author: Yago F. Hansen - 2017
-
-
-  Wi-Fi Covert Channel Chat
-(Ultra secret chat using Wi-Fi covert channel)
+Wi-Fi Covert Channel Chat
 ----------------------------------------------
+(Ultra secret chat using Wi-Fi covert channel)
+Author: Yago F. Hansen - 2017
 
 Covert Channel [Wikipedia]: a covert channel is a type of computer security attack that creates 
 a capability to transfer information objects between processes that are not supposed to be allowed 
@@ -60,8 +51,12 @@ Just write your message and press enter to send!
 or you can use following commands:
 
 :ping:         - ping all the other nodes (test)
+
 :usrs:         - show all the detected users
+
 :file:filename - send a file to all the users
+
 :cmmd:command  - execute local command and send result
+
 :exit:         - exit (press Ctrl+C if you are a pro!)
 
